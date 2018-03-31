@@ -22,6 +22,5 @@ public class MaxCommonFactor  extends MyEnter{
 
     public static void main(String[] args) {
         MaxCommonFactor mf = new MaxCommonFactor();
-
     }
 }
