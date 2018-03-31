@@ -38,6 +38,5 @@ public class CheckNum extends MyEnter {
 
     public static void main(String[] args) {
         CheckNum checkNum = new CheckNum();
-
     }
 }
